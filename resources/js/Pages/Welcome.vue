@@ -2,6 +2,7 @@
 import navbarMenu from "@/Components/lalexpo/navbarMenu.vue";
 import banner from "@/Components/lalexpo/banner.vue";
 import localizationVue from "@/Components/lalexpo/localization.vue";
+import sponsors from "@/Components/lalexpo/sponsors.vue";
 
 import { Head, Link } from "@inertiajs/vue3";
 
@@ -13,6 +14,7 @@ defineProps({});
   <navbarMenu />
   <banner />
   <localizationVue/>
+  <sponsors/>
 </template>
 
 <style scoped>
