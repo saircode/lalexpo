@@ -16,11 +16,16 @@
         </div>
     </div>
   </section>
+  <div class="red-line"></div>
 </template>
 
 <script setup>
 </script>
 
 <style scoped>
-
+.red-line {
+    width: 100%;
+    height: 3px; /* Ajusta el grosor de la línea según tus preferencias */
+    background-color: red;
+}
 </style>
