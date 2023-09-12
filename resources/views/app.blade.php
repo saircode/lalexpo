@@ -6,16 +6,19 @@
 
         <title inertia>{{ config('app.name', 'Laravel') }}</title>
 
-        <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.bunny.net">
-        <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
+        <!-- Styles -->
+        <link rel="stylesheet" type="text/css" href="{{URL::asset('/assets/css/bootstrap.min.css')}}"/>
+        <link rel="stylesheet" type="text/css" href="{{URL::asset('/assets/css/styles.css')}}"/>
+        <link rel="stylesheet" type="text/css" href="{{URL::asset('/assets/css/grid.css')}}"/>
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+ 
 
         <!-- Scripts -->
         @routes
         @vite(['resources/js/app.js', "resources/js/Pages/{$page['component']}.vue"])
         @inertiaHead
     </head>
-    <body class="font-sans antialiased">
+    <body>
         @inertia
     </body>
 </html>

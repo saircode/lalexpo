@@ -1,0 +1,310 @@
+@media (max-width: 1710px) {
+    #date-cta {
+      font-size: 22px;
+    }
+    #days,
+    #minutes,
+    #seconds {
+      height: 60px;
+      width: 60px;
+      font-size: 26px;
+      padding-top: 14px;
+    }
+    .ico-img-home {
+      height: 50px;
+      width: auto;
+    }
+    .timer-font {
+      font-size: 16px;
+    }
+  }
+  @media (max-width: 1600px) {
+    .container-fluid {
+      padding-left: 60px;
+      padding-right: 60px;
+    }
+    .text-medium {
+      font-size: 15px;
+    }
+  }
+  @media (max-width: 1414px) {
+    .navbar-brand img {
+      width: 190px;
+    }
+    .navbar-text button {
+      font-size: 11px;
+      padding: 5px 14px;
+    }
+    .nav-item {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .nav-link {
+      font-size: 14px;
+    }
+    #date-cta {
+      font-size: 22px;
+    }
+  }
+  @media (max-width: 1444px) {
+    #date-cta {
+      font-size: 20px;
+    }
+  }
+  @media (max-width: 1360px) {
+    #date-cta {
+      font-size: 19px;
+    }
+    #days,
+    #minutes,
+    #seconds {
+      height: 50px;
+      width: 50px;
+      font-size: 22px;
+      padding-top: 11px;
+    }
+    .timer-font {
+      font-size: 14px;
+    }
+  }
+  @media (max-width: 1242px) {
+    #date-cta {
+      font-size: 16px;
+    }
+    #days,
+    #minutes,
+    #seconds {
+      height: 40px;
+      width: 40px;
+      font-size: 18px;
+    }
+    .timer-font {
+      font-size: 12px;
+    }
+  }
+  @media (min-width: 990px) and (max-width: 1220px) {
+    #navbarText .social-icons {
+      display: none;
+    }
+  }
+  @media (max-width: 1100px) {
+    .navbar-brand img {
+      width: 150px;
+    }
+  }
+  @media (max-width: 1060px) {
+    .nav-link {
+      font-size: 12px;
+    }
+  }
+  @media (max-width: 992px) {
+    .pe-100 {
+      padding-right: 0px;
+    }
+    #menuBurgerClose {
+      display: flex;
+      margin-left: auto;
+      transition: all 0.2s ease-out;
+      background-color: #fff;
+      filter: none;
+      border-radius: 30px;
+      font-size: 10px;
+      padding: 12px;
+      margin-bottom: 50px;
+      margin-right: 3px;
+    }
+    #navbarText {
+      height: 103vh;
+      position: absolute;
+      top: 0;
+      background-color: #00075cf2;
+      width: 100%;
+      left: 0px;
+      overflow: hidden;
+      padding-left: 40px;
+      padding-right: 25px;
+      padding-top: 24px;
+      transition: all 0.1s ease-in;
+    }
+    .menu-num {
+      color: #86b7fe;
+      position: absolute;
+      left: 2px;
+      font-size: 10px;
+      top: 20px;
+    }
+    .social-icons {
+      margin-top: 70px;
+      display: flex;
+      justify-content: end;
+    }
+    .info-blocks {
+      color: #fff;
+      font-size: 14px;
+    }
+    .navbar {
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+    .navbar-text button {
+      font-size: 8px;
+      padding: 5px 12px;
+      letter-spacing: 1.8px;
+      margin: 0px;
+    }
+    .nav-link {
+      font-size: 24px;
+      font-weight: 500;
+    }
+    section {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .container-fluid {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .nav-item {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      position: relative;
+    }
+    .nav-item:not(:last-child) {
+      border-right: 0px;
+      padding-bottom: 0px;
+    }
+    .navbar-text {
+      margin-top: 20px;
+      display: inline-block;
+      margin-bottom: 20px;
+      margin-left: auto;
+    }
+    .titulo-big {
+      font-size: 68px;
+    }
+    .titulo {
+      font-size: 42px;
+    }
+    .cta-item:nth-child(2) {
+      border-right: 0px;
+    }
+    .cta-item {
+      padding-top: 15px;
+      padding-bottom: 15px;
+    }
+    .conten-documental {
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .video-content {
+      height: 600px;
+    }
+    .tour-text-small {
+      line-height: normal;
+    }
+    .tour-text {
+      font-size: 160px;
+    }
+    .tour-text-small {
+      font-size: 50px;
+      margin-top: -95px;
+      margin-bottom: 70px;
+    }
+    .text-medium {
+      font-size: 14px;
+    }
+    .border-md-0 {
+      border: 0px !important;
+      border-bottom: 2px;
+      border-bottom: 2px solid #dee2e6 !important;
+      padding-bottom: 20px;
+      margin-bottom: 20px;
+    }
+    .tel-text {
+      font-size: 17px;
+    }
+    .tel-text .titulo-small {
+      font-size: 17px;
+    }
+    .fa-mobile-alt {
+      font-size: 48px;
+    }
+    .social-footer {
+      justify-content: start;
+    }
+    .btn-tickets {
+      top: 15%;
+      padding: 10px 10px;
+    }
+    .btn-tickets img {
+      width: 40px;
+      height: 40px;
+    }
+    .tickets-text {
+      display: none;
+    }
+     #date-cta {
+      font-size: 28px;
+    }
+    #days,
+    #minutes,
+    #seconds {
+      height: 55px;
+      width: 55px;
+      font-size: 24px;
+      padding-top: 13px;
+    }
+  }
+  @media (max-width: 767px) {
+    .titulo-big {
+      font-size: 32px;
+    }
+    .cta-item:not(:last-child) {
+      border-right: 0px;
+      border-bottom: 1px solid #fff;
+    }
+    .video-content {
+      height: 400px;
+    }
+    .footer-titulo {
+      padding-top: 25px;
+    }
+    .tour-text {
+      font-size: 72px;
+    }
+    .tour-text-small {
+      font-size: 23px;
+      margin-top: -42px;
+      margin-bottom: 52px;
+    }
+    .social-workshop {
+      margin-top: 14px;
+    }
+    .city-banner {
+      font-size: 18px;
+    }
+    .titulo {
+      font-size: 30px;
+    }
+    .text-preguntas {
+      margin: 10px 0px;
+    }
+    .btn-tickets {
+      top: 15%;
+      padding: 10px 10px;
+    }
+    .btn-tickets img {
+      width: 40px;
+      height: 40px;
+    }
+    .tickets-text {
+      display: none;
+    }
+    .modal-padding {
+      padding: 50px 30px;
+    }
+    .btn-galeria {
+      font-size: 16px;
+      margin-top: 40px;
+    }
+  }
