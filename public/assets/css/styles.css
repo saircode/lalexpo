@@ -231,7 +231,7 @@ body {
     margin-right: 5px;
     text-decoration: none;
   }
-  .cta-item:not(:last-child) {
+  .lzn-item:not(:last-child) {
     border-right: 1px solid #ffffff;
   }
   .speaker-card {
