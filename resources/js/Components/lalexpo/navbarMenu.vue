@@ -39,7 +39,7 @@
         <div
           class="small-text text-white menu-text d-block d-sm-block d-md-block d-lg-none"
         >
-          Menú <span class="color-secundary">principal</span>
+          Menú <span class="secondary-color">principal</span>
         </div>
         <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
           <li class="nav-item">

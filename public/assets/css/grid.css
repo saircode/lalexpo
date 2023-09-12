@@ -179,7 +179,7 @@
       margin-bottom: 20px;
       margin-left: auto;
     }
-    .titulo-big {
+    .banner-title {
       font-size: 68px;
     }
     .titulo {
@@ -256,7 +256,7 @@
     }
   }
   @media (max-width: 767px) {
-    .titulo-big {
+    .banner-title {
       font-size: 32px;
     }
     .cta-item:not(:last-child) {
