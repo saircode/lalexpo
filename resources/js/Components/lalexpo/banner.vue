@@ -26,6 +26,6 @@
 .red-line {
     width: 100%;
     height: 3px; /* Ajusta el grosor de la línea según tus preferencias */
-    background-color: red;
+    background-color: #dc3545;
 }
 </style>
