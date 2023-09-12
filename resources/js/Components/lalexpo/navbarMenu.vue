@@ -4,7 +4,7 @@
   >
     <div class="container-fluid">
       <a class="navbar-brand" href="/"
-        ><img src="assets/img/logo-lalexpo.svg" alt="" /></a
+        ><img src="assets/img/logo-lalexpo.png" alt="" /></a
       ><span class="navbar-text"
         ><button
           type="button"
@@ -50,23 +50,19 @@
           <li class="nav-item">
             <span class="menu-num d-block d-sm-block d-md-block d-lg-none"
               ></span
-            ><a class="nav-link" href="/workshops">Workshops Latam </a>
+            ><a class="nav-link" href="/documental">Documental </a>
           </li>
           <li class="nav-item">
             <span class="menu-num d-block d-sm-block d-md-block d-lg-none"
               ></span
-            ><a class="nav-link" href="#">Lalexpo Vip</a>
+            ><a class="nav-link" href="#">Lalexpo VIP curazao</a>
           </li>
           <li class="nav-item">
             <span class="menu-num d-block d-sm-block d-md-block d-lg-none"
               ></span
-            ><a class="nav-link" href="/documental">Documental</a>
+            ><a class="nav-link" href="/workshops">Workshops</a>
           </li>
-          <li class="nav-item d-block d-sm-block d-md-block d-lg-none">
-            <span class="menu-num d-block d-sm-block d-md-block d-lg-none"
-              ></span
-            ><a class="nav-link" href="#">Contáctanos</a>
-          </li>
+      
         </ul>
         <span class="navbar-text"
           ><button
