@@ -205,6 +205,14 @@ const sendMail = () => {
       setTimeout(() => {
         showMessageSuccess.value = false;
       }, 3000);
+
+      form.name= null;
+      form.email= null;
+      form.cellphone= null;
+      form.country= null;
+      form.subject= null;
+      form.message= null;
+      form.accept= null;
     })
     .catch((err) => {
       errors.value = err.response.data;
@@ -212,13 +220,7 @@ const sendMail = () => {
     .finally(()=>{
         isloading.value = false;
 
-        form.name= null;
-        form.email= null;
-        form.cellphone= null;
-        form.country= null;
-        form.subject= null;
-        form.message= null;
-        form.accept= null;
+      
     })
 };
 </script>
